@@ -1,595 +1,413 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/</loc>
+    <loc>https://kazik-online-igra.github.io/1-vin-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/7-k-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/animki-blek-rasha-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/bananza-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/bear-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/besplatnyy-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/biff-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/black-russia-chit-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/blek-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/chit-na-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/chity-na-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/chto-takoe-dep-v-kazike.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/chto-znachit-depat-v-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/chto-znachit-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/chtoby-depnut-v-kazik-milliony.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/demo-kazik-kirka.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/dota-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/esli-hochesh-depnut-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/evelon-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/fon-kazika.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/gama-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/how-to-fish-kak-igrat-v-kazik.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/igra-pro-kazik-s-druzyami.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/igra-v-kazik-blek-rasha.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/igry.html</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://kazik-online-igra.github.io/</loc>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igry.html</loc>
+    <loc>https://kazik-online-igra.github.io/izikesh-kazik.html</loc>
     <changefreq>daily</changefreq>
-    <priority>0.9</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/5000-demo-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/azartnye-igrovye-avtomaty-besplatno-i-bez-registratsii.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/azartnye-igrovye-avtomaty-besplatno.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/azartnye-igrovye-avtomaty-demo.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/azartnye-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/besplatnye-igrovye-avtomaty-777.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/besplatnye-igrovye-avtomaty-admiral.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/besplatnye-igrovye-avtomaty-richi.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/casino-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/demo-igrovye-avtomaty-admiral.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/detskie-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/doktor-slot-igrovye-avtomaty-igrat.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/eldorado-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/emulyator-igrovyh-avtomatov.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/faraon-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/gaminator-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrana-igrovye-avtomaty-igrovye-avtomaty-admiral.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovoy-klub-avtomat-besplatno-igrat.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomat-besplatno-bez-lyagushki.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-24.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-5000.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-777-demo.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-777-registratsiya.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-777.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-admiral-registratsiya.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-alkatras.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-besplatno-5000.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-besplatno-bez-registratsii-v-horoshem.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-besplatno.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-bez-deneg-registratsii.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-bez-registratsii-5000.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-bez-registratsii-rich.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-bez-registratsii.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-bonusy.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-chert.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-club.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-demo-bez-deneg.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-demo-pomidory.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-demo-russkiy-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-demo.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-dzhek.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-foto.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-frukty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/jetton-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-garazh.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kakoy-kazik-reklamit-zubarev.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-internete.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-belarus.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-kupit.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-beta.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-lev.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-dak.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-millioner.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-demo-versiya.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-na-dengi.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-doma.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-novye-registratsiya.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-gta.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-obezyanki.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-irvin.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-pinko.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-ks2.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-piramida.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-madzhestik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-probki.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-melstroya.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-registratsiya-igrovye-avtomaty-demo.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-na-dengi.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-registratsiya-klub.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-ot-100-rubley.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-retro.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-otzyvy.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-rezident.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-repo.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-rich-demo.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-robloks.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-rich.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-s-popolneniem-ot-100-r.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-s-tiketami.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-sloty.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-schastlivchik.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-sobachki.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-spb.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-stendoff.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-telefony.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazik-v-tg.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-udacha.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kaziki-v-kz.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-v-moskve.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/kazikov-ivan-aleksandrovich-lor-otolaringolog.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-video.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/laki-bir-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-vulkan-demo.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/luchshie-kaziki.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-zerkalo.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/luke-bear-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/igrovye-avtomaty-zoloto.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/mani-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/kak-nazyvayutsya-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/matreshka-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/klub-igrovye-avtomaty-demo.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/maynkraft-drop-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/klub-igrovyh-avtomatov.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/maynkraft-kazik-igrat.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/kod-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/mellstroy-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/leon-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/melstroy-na-strime-igraet-v-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/luchshie-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/mod-na-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/mir-igrovyh-avtomatov.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/nenastoyaschiy-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/muzey-igrovyh-avtomatov.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/ofitsialnye-kaziki.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/nayti-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/olimpus-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/noveyshie-igrovye-avtomaty-besplatno.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/paradayz-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/novye-demo-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/pinko-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/novye-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/prilozhenie-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/ofitsialnye-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/radmir-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/russkie-besplatnye-igrovye-avtomaty-bez-registratsii.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/raketka-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/russkie-besplatnye-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/reklama-kazika.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/russkiy-igrovye-avtomaty-igrayuschie-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/simulyator-kazika.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/skachat-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/skachat-chity-blek-rasha-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/sovetskie-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/skachat-kazik-maynkraft.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/starye-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/standoff-craft-depni-v-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/sut-igrovyh-avtomatov.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/steyk-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/tri-semerki-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/stint-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/tsentr-igrovyh-avtomatov.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/toha-pro-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/vulkan-igrovye-avtomaty-besplatno.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/triks-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/vulkan-igrovye-avtomaty-bez-registratsii.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/v-kazike-dermo-anki.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/vulkan-igrovye-avtomaty-s-vyvodom.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/vegas-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/vulkan-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/vodka-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://igrovye-avtomaty.netlify.app/yandeks-igrovye-avtomaty.html</loc>
-    <lastmod>2026-09-22</lastmod>
-    <changefreq>weekly</changefreq>
+    <loc>https://kazik-online-igra.github.io/zuma-kazik.html</loc>
+    <changefreq>daily</changefreq>
     <priority>0.8</priority>
   </url>
 </urlset>
